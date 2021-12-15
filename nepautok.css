@@ -26,3 +26,18 @@ a:hover {
 	background-color: lightgray;
 	text-decoration: none;
 	}
+	.img-box {
+		width: 200px;
+		background-color: #eee;
+		padding: 10px;
+		border: 1px #999 solid;
+		margin: 10px;
+	}
+	.vonal {
+		width: 700px;
+		margin-top: 10px;
+		border: 1px solid black;
+	}
+	.text{
+		text-align: left;
+	}
